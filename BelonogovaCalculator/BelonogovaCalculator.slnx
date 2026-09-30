@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Belonogova2IspravTest/Belonogova2IspravTest.csproj" />
+  <Project Path="../BelonogovaAAIsprav/BelonogovaAAIsprav.csproj" />
+  <Project Path="../BibliotekaBelonogovaIspr/BibliotekaBelonogovaIspr.csproj" />
+</Solution>
